@@ -10,9 +10,9 @@ This project is an end-to-end application that generates realistic lip-synced av
 | TTS Model              | OpenVoice          |
 | Lip Sync Generation    | Wav2Lip          |
 ## 🧩 Architecture Diagram
-![Architecture Diagram](assets/architecture.jpg)
+![Architecture Diagram](assets/architecture.jpeg)
 ## 🔄 Workflow
-![Workflow](assets/workflow.jpg)
+![Workflow](assets/workflow.jpeg)
 ## ⚙ Features
 
 -  User authentication (Register/Login)
