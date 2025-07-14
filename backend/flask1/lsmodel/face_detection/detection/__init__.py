@@ -1,0 +1,1 @@
+from flask1.lsmodel.face_detection.detection.core import FaceDetector

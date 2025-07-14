@@ -1,0 +1,72 @@
+# ---------------------
+# FRONTEND IGNORE LIST
+# ---------------------
+
+# Dependency folders
+/frontend22/node_modules/
+/frontend22/.yarn/
+/frontend22/.pnp/
+/frontend22/.pnp.js
+
+# Environment variables
+/frontend22/.env
+/frontend22/.env.qa
+
+# Build output (if you build React)
+/frontend22/dist/
+/frontend22/build/
+
+# Logs & tools
+/frontend22/.eslintcache
+/frontend22/yarn-error.log
+/frontend22/npm-debug.log
+
+# VS Code
+#/frontend22/.vscode/
+
+# ---------------------
+# BACKEND IGNORE LIST
+# ---------------------
+
+# Python cache
+**/__pycache__/
+/backend/**/*.pyc
+
+# Virtual environments
+/backend/av_fenv/
+/backend/venv/
+/backend/env/
+
+# Environment secrets
+/backend/.env
+/backend/.env.*
+
+# Keep folders, ignore contents
+/backend/flask1/files/temp/*
+!/backend/flask1/files/temp/.gitkeep
+
+/backend/flask1/files/uploads/*
+!/backend/flask1/files/uploads/.gitkeep
+
+/backend/flask1/files/output_final/*
+!/backend/flask1/files/output_final/.gitkeep
+
+/backend/flask1/files/outputaudio/*
+!/backend/flask1/files/outputaudio/.gitkeep
+
+/backend/flask1/files/reference_audios/*
+!/backend/flask1/files/reference_audios/.gitkeep
+
+# Optional default audio files if not essential
+# /backend/flask1/files/defaultvoices/*.mp3
+
+# Logs
+# *.log
+
+# # IDE folders
+# .vscode/
+# .idea/
+
+# # System files
+# .DS_Store
+# Thumbs.db
