@@ -77,23 +77,16 @@ The primary objective of OpenVoice is to provide a versatile and efficient solut
 - SadTalker
 
 ## 🖥 Installation and SetUp
-1. **Clone the repository**
+1. **Clone the repository and navigate to the frontend folder**
+     ```bash
+     cd frontend22
 
-   ```bash
-   git clone https://github.com/your-username/avatar-lab.git
-   cd avatar-lab
-
-2. **Navigate to the frontend folder**
-
-   ```bash
-   cd frontend22
-
-4. **Set up and install dependencies**
+2. **Set up and install dependencies**
 
    ```bash
    npm run setup
 
-5. **Download Checkpoints**
+3. **Download Checkpoints**
 
    [Click here to download the model checkpoints](https://drive.google.com/drive/folders/1qVSyMyBpvr71MMoA8WhG4KPUVbT1UwVc?usp=drive_link)
 
@@ -101,7 +94,7 @@ The primary objective of OpenVoice is to provide a versatile and efficient solut
    ```bash
    /backend/flask1/files/checkpoints
 
-7. **Start the Server**
+4. **Start the Server**
    ```bash
    npm start
    
