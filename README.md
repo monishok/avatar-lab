@@ -95,7 +95,7 @@ The primary objective of OpenVoice is to provide a versatile and efficient solut
 
 5. **Download Checkpoints**
 
-   [Click here to download the model checkpoints](https://drive.google.com/your-checkpoint-link)
+   [Click here to download the model checkpoints](https://drive.google.com/drive/folders/1qVSyMyBpvr71MMoA8WhG4KPUVbT1UwVc?usp=drive_link)
 
    After downloading, extract the files to the following directory:
    ```bash
