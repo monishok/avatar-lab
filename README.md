@@ -8,7 +8,7 @@ This project is an end-to-end application that generates realistic lip-synced av
 | Backend                | Flask              |
 | Database               | MongoDB            |
 | TTS Model              | OpenVoice          |
-| Lip Sync Generation    | SadTalker          |
+| Lip Sync Generation    | Wav2Lip          |
 ## 🧩 Architecture Diagram
 ![Architecture Diagram](assets/architecture.jpg)
 ## 🔄 Workflow
