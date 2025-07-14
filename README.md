@@ -6,9 +6,9 @@ This project is an end-to-end application that generates realistic lip-synced av
 |------------------------|--------------------|
 | Frontend               | React.js           |
 | Backend                | Flask              |
-| Database               | MongoDB            |
+| Database               | PostgreSQL              |
 | TTS Model              | OpenVoice          |
-| Lip Sync Generation    | Wav2Lip          |
+| Lip Sync Generation    | Wav2Lip            |
 ## 🧩 Architecture Diagram
 ![Architecture Diagram](assets/architecture.jpeg)
 ## 🔄 Workflow
